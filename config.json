@@ -1,10 +1,9 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
-	},
-	
+		"host": "YuuZhy.aternos.me",
+		"port": "19605",
+		"username": "Agentiles"
+  },
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
 	"action": {
