@@ -2,7 +2,7 @@ FROM node:lts-buster
 
 COPY package.json .
 
-RUN npm install -g pnpm && pnpm install && npm install -g pm2 && pm2 install typescript
+RUN npm install -g pm2 pnpm && pnpm install
 
 COPY . .
 
