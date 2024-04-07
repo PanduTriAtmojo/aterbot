@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'my-app',
+    name: 'app',
     script: 'ts-node',
     args: './src/index.ts',
     interpreter: './node_modules/.bin/ts-node',
